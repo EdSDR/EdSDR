@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ed.sdr@outlook.com** // **https://www.linkedin.com/in/edson-s-castro-798a30205/**
 
-- ⚡ Fun fact **I know how to fly planes.**
+- ⚡ Fun fact **I know how to fly a plane.**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,10 +32,10 @@
 
 <h3 align="left">Design:</h3>
 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <h3 align="left">Education:</h3>
 
