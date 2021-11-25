@@ -19,7 +19,7 @@
 [![GitHub]( https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
 
 ---
-<h3> :rocket: &nbsp;My Skills</h3>
+<h3> :rocket: &nbsp;My Skills:</h3>
 
 **Languages and Tools**
 
