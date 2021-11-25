@@ -2,7 +2,7 @@
 
 <h3 align="left">     A passionate Full Stack JS developer from Brazil</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdSdr&show_icons=true&theme=dracula)
+<img aling="right" width="420em" src="https://github-readme-stats.vercel.app/api?username=EdSDR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
 
@@ -63,7 +63,7 @@
 
 ----
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsdr&show_icons=true&locale=en&layout=compact" alt="edsdr" /></p>
+<img aling="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&layout=compact&langs_count=7&theme=dracula">
 
 ---
 
