@@ -14,8 +14,8 @@
 
 <h3> 📫 How to reach me: <h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-ed.sdr@outlook.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ed.sdr@outlook.com)](mailto:davispetris@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davipetris/)](https://www.linkedin.com/in/edson-s-castro-798a30205/)
+[![Gmail Badge](https://img.shields.io/badge/-ed.sdr@outlook.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ed.sdr@outlook.com)](mailto:ed.sdr@outlook.com) 
+[![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edson-s-castro-798a30205)](https://www.linkedin.com/in/edson-s-castro-798a30205/)
 [![GitHub]( https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
 
 ---
