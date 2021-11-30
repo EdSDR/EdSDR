@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I know how to fly a plane.**
 
----
+----
 
 <h3> 📫 How to reach me: <h3>
 
@@ -18,7 +18,8 @@
 [![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edson-s-castro-798a30205)](https://www.linkedin.com/in/edson-s-castro-798a30205/)
 [![GitHub]( https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
 
----
+----
+
 <h3> :rocket: &nbsp;My Skills:</h3>
 
 **Languages and Tools**
@@ -65,7 +66,7 @@
 
 <img aling="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&layout=compact&langs_count=7&theme=dracula">
 
----
+----
 
 <p align="center"> “It is impossible to live in the past, difficult to live in the present and a waste to live in the future.”
 ― Frank Herbert, Dune </p>
