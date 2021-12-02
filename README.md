@@ -31,8 +31,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Frameworks, Platforms and Libraries**
+ **Frameworks, Platforms and Libraries**
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -70,7 +71,7 @@
 ----
 
 <p align="center"> “It is impossible to live in the past, difficult to live in the present and a waste to live in the future.”
-― Frank Herbert, Dune </p>
+― **Frank Herbert, Dune** </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edsdr&label=Profile%20views&color=0e75b6&style=flat" alt="edsdr" /> </p>
 
