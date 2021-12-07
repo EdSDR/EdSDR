@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Ed </h1>
 
-
+<p align="center">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+</p>
+  
 <h3 align="Center">     A passionate Full Stack Developer from Brazil</h3>
 
   <div>
