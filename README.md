@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
 
-- 🌱 I’m currently learning/Improving **JS, Node, Python, TypeScript and React.**
+- 🌱 I’m currently learning/Improving **Node, Python, Docker and Machine Learning.**
 
 - ⚡ Fun fact **I know how to fly a plane.**
 
