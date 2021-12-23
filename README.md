@@ -3,10 +3,10 @@
 
 <h3 align="Center">     A passionate Full Stack Developer from Brazil.</h3>
 
-  <div>
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=EdSDR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+ <div>
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=EdSDR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=github_dark">
-  </div>
+ </div>
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
 
