@@ -1,11 +1,11 @@
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Ed </h1>
 
-  
 <h3 align="Center">     A passionate Full Stack Developer from Brazil.</h3>
 
   <div>
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=EdSDR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=dracula">
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=EdSDR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=github_dark">
   </div>
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
@@ -76,10 +76,11 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-----
+---
+[![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EdSDR&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/EdSDR)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-
+--- 
+ 
 <p align="center"> “It is impossible to live in the past, difficult to live in the present and a waste to live in the future.”
 ― Frank Herbert, Dune </p>
 
