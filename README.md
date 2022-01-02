@@ -77,6 +77,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EdSDR&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/EdSDR)
 
 --- 
