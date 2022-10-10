@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
 
-- 🌱 I’m currently learning/Improving **Node, Express and Redux.**
+- 🌱 I’m currently learning/Improving **TS, Node, Prisma, Xstate and others.**
 
 - ⚡ Fun fact **I know how to fly a plane.**
 
