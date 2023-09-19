@@ -6,7 +6,7 @@
  <p align="center">
   <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10">
   
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=github_dark">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight">
   </p>
  </div>
 
