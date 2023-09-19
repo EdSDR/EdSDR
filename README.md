@@ -9,8 +9,8 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight">
   </p>
  </div>
-
-- 🔭 I’m currently working on **Upload and Improve my projects.**
+ 
+- 🔭 I'm working at **FutureMe** and building a **Full-Stack Website** check it out! [Therion GitHub](https://github.com/templo-de-loki/therion)
 
 - 🌱 I’m currently learning/Improving **GO, CS Stuff, and some minor libs for webdev.**
 
