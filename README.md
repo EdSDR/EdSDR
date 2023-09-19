@@ -1,11 +1,13 @@
-
 <h1 align="center">Hi I'm Ed </h1>
 
 <h3 align="Center">     A passionate Full Stack Developer from Brazil.</h3>
 
  <div>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=EdSDR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+ <p align="center">
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10">
+  
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=github_dark">
+  </p>
  </div>
 
 - 🔭 I’m currently working on **Upload and Improve my projects.**
@@ -14,16 +16,16 @@
 
 - ⚡ Fun fact **I know how to fly a plane.**
 
-----
+---
 
 <h3> 📫 How to reach me: <h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-ed.sdr@outlook.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ed.sdr@outlook.com)](mailto:ed.sdr@outlook.com) 
+[![Gmail Badge](https://img.shields.io/badge/-ed.sdr@outlook.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ed.sdr@outlook.com)](mailto:ed.sdr@outlook.com)
 [![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edsdr/)](https://www.linkedin.com/in/edsdr/)
-[![behance]( https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/EdSDR)
-[![GitHub]( https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
+[![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/EdSDR)
+[![GitHub](https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
 
-----
+---
 
 <h3> :rocket: &nbsp;My Skills:</h3>
 
@@ -32,7 +34,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  
+
 **Hosting / Container**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -65,7 +67,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
- 
+
 **Frameworks, Platforms, Libraries**
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -82,8 +84,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-
- **Languages, Tools and Databases**
+**Languages, Tools and Databases**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -99,13 +100,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-
 ---
- 
+
 <p align="center"> “It is impossible to live in the past, difficult to live in the present and a waste to live in the future.”
 ― Frank Herbert, Dune </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edsdr&label=Profile%20views&color=0e75b6&style=flat" alt="edsdr" /> </p>
-
-
-
