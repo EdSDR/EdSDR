@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Ed </h1>
 
-<h3 align="Center">     A passionate Full Stack Developer from Brazil.</h3>
+<h3 align="Center">A passionate Full Stack Developer from Brazil.</h3>
 
  <div>
  <p align="center">
