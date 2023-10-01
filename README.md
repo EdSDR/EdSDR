@@ -1,6 +1,5 @@
 <h1 align="center">Hi I'm Ed </h1>
 
-
  <div>
  <p align="center">
   <img height="130em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
