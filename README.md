@@ -1,12 +1,13 @@
 <h1 align="center">Hi I'm Ed </h1>
 
-<h3 align="Center">A passionate Full Stack Developer from Brazil.</h3>
 
  <div>
  <p align="center">
-  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10">
+  <img height="155em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
   
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight">
+  <img height="155em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
+  
+  <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
   </p>
  </div>
  
