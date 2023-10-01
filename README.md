@@ -3,11 +3,11 @@
 
  <div>
  <p align="center">
-  <img height="155em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
+  <img height="140em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
   
-  <img height="155em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
+  <img height="140em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
   
-  <img height="155em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
   </p>
  </div>
  
