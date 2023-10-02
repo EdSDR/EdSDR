@@ -8,11 +8,11 @@
   </p>
  </div>
  
-- 🔭 I'm working at **FutureMe** and building a **Full-Stack Website** check it out! [Therion GitHub](https://github.com/templo-de-loki/therion)
+- 🌍 I'm working at **FutureMe** and building a **Full-Stack Website** check it out! [Therion GitHub](https://github.com/templo-de-loki/therion)
 
-- 🌱 I’m currently learning/Improving **Bun, GO, CS Stuff, and some minor libs for webdev.**
+- 🌎 I’m currently learning/Improving **Bun, GO, CS Stuff, and some minor libs for webdev.**
 
-- ⚡ Fun fact **I know how to fly a plane.**
+- 🌏 Fun fact **I know how to fly a plane.**
 
 ---
 
