@@ -1,23 +1,18 @@
-<h1 align="center">Hi I'm Ed </h1>
-
- <div>
+ <h1 align="center">Hi I'm Ed </h1>
  <p align="center">
   <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
   <img height="130em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
-  </p>
- </div>
+ </p>
  
  - 🛠️ I'm working at **FutureMe** and building a **Full-Stack Website** check it out! [Therion GitHub](https://github.com/templo-de-loki/therion)
-
  - 📙 I’m currently learning/Improving **Bun, GO, CS Stuff, and some minor libs for webdev.**
-
  - ✈️ Fun fact **I know how to fly a plane.**
-
+   
 ---
 
-<h3> 📫 How to reach me: <h3>
-
+<h3>📫 How to reach me:<h3>
+ 
 [![Gmail Badge](https://img.shields.io/badge/-ed.sdr@outlook.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:ed.sdr@outlook.com)](mailto:ed.sdr@outlook.com)
 [![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edsdr/)](https://www.linkedin.com/in/edsdr/)
 [![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/EdSDR)
@@ -25,7 +20,7 @@
 
 ---
 
-<h3> :rocket: &nbsp;My Skills:</h3>
+<h3>:rocket: My Skills:</h3>
 
 **Version Control / CI**
 
