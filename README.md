@@ -1,4 +1,5 @@
  <h1 align="center">Hi I'm Ed </h1>
+ 
  <p align="center">
   <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
@@ -97,4 +98,5 @@
 
 <p align="center"> “It is impossible to live in the past, difficult to live in the present and a waste to live in the future.”
 ― Frank Herbert, Dune </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edsdr&label=Profile%20views&color=0e75b6&style=flat" alt="edsdr" /> </p>
