@@ -1,5 +1,4 @@
  <h1 align="center">Hi I'm Ed </h1>
- 
  <p align="center">
   <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
