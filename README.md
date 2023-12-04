@@ -17,7 +17,7 @@
 
 <h3>📫 How to reach me:<h3>
  
-[![Gmail Badge](https://img.shields.io/badge/-contato@edsdr.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contato@edsdr.com)](mailto:contato@edsdr.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato@edsdr.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contact@edsdr.com)](mailto:contact@edsdr.com)
 [![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edsdr/)](https://www.linkedin.com/in/edsdr/)
 [![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/EdSDR)
 [![GitHub](https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
