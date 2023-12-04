@@ -1,11 +1,15 @@
  <h1 align="center">Hi I'm Ed </h1>
  <p align="center">
+  Visit my <a href="https://edsdr.com/">Website</a> for more details about
+  my work
+ </p>
+ <p align="center">
   <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
   <img height="130em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
  </p>
  
- - 🛠️ I'm working at **FutureMe** and building a **Full-Stack Website** check it out! [Therion GitHub](https://github.com/templo-de-loki/therion)
+ - 🛠️ I work at **FutureMe** and spend my spare time building fun stuff.
  - 📙 I’m currently learning/Improving **Bun, GO, CS Stuff, and some minor libs for webdev.**
  - ✈️ Fun fact **I know how to fly a plane.**
    
