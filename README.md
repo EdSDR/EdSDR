@@ -11,7 +11,7 @@
  
  - 🛠️ I work at **FutureMe** and spend my spare time building fun stuff.
  - 📙 I’m currently learning/Improving **Bun, GO, CS Stuff, and some minor libs for webdev.**
- - ✈️ Fun fact **I know how to fly a plane.**
+ - ✈️ Fun fact **I know how to fly a plane.** and my work appeared on a [Fireship Video](https://youtu.be/HCOQmKTFzYY?t=96)
    
 ---
 
