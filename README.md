@@ -9,13 +9,13 @@
   <img height="130em" align="center" src="https://lanyard.cnrad.dev/api/296318783998656513?bg=1b1a27&showDisplayName=true">
  </p>
  
- - 🛠️ I work at **FutureMe** and spend my spare time building fun stuff.
- - 📙 I’m currently learning/Improving **Bun, GO, CS Stuff, and some minor libs for webdev.**
- - ✈️ Fun fact **I know how to fly a plane.** and my work appeared on a [Fireship Video](https://youtu.be/HCOQmKTFzYY?t=96)
+ -  I work at **AGIc** and spend my spare time building fun stuff.
+ -  I’m currently learning/Improving **Rust, HTMX, Leptos, and some minor libs for webdev.**
+ -  Fun fact **I know how to fly a plane** and my work appeared on a **[Fireship Video](https://youtu.be/HCOQmKTFzYY?t=96)**.
    
 ---
 
-<h3>📫 How to reach me:<h3>
+<h3>Reach me:<h3>
  
 [![Gmail Badge](https://img.shields.io/badge/-contact@edsdr.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contact@edsdr.com)](mailto:contact@edsdr.com)
 [![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edsdr/)](https://www.linkedin.com/in/edsdr/)
@@ -24,7 +24,7 @@
 
 ---
 
-<h3>:rocket: My Skills:</h3>
+<h3>My Skills:</h3>
 
 **Version Control / CI**
 
@@ -38,23 +38,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-**Operating Systems**
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Education**
-
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 **Design**
 
@@ -80,10 +63,12 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
 
 **Languages, Tools and Databases**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
