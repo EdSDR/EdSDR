@@ -1,7 +1,7 @@
  <h1 align="center">Hi I'm Ed </h1>
  <p align="center">
   Visit my <a href="https://edsdr.com/" target="_blank">Website</a> for more details about
-  my work
+  my work.
  </p>
  <p align="center">
   <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=tokyonight&border_radius=10&hide_border=true">
