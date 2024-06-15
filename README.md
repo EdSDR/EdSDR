@@ -13,8 +13,6 @@
  -  Fun fact **I know how to fly a plane** and my work appeared on a **[Fireship Video](https://youtu.be/HCOQmKTFzYY?t=96)**.
    
 ---
-
-<h3>Reach me:<h3>
  
 [![Gmail Badge](https://img.shields.io/badge/-contact@edsdr.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contact@edsdr.com)](mailto:contact@edsdr.com)
 [![Linkedin](https://img.shields.io/badge/-EdCastro-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/edsdr/)](https://www.linkedin.com/in/edsdr/)
@@ -22,8 +20,6 @@
 [![GitHub](https://img.shields.io/github/followers/EdSdr?label=follow&style=social)](https://github.com/EdSdr)
 
 ---
-
-<h3>My Skills:</h3>
 
 **Version Control / CI**
 
