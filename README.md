@@ -21,4 +21,4 @@
 ---
 
 <p align="center">“It is impossible to live in the past, difficult to live in the present and a waste to live in the future.”
-― Frank Herbert, Dune.</p>
+- Frank Herbert, Dune.</p>
