@@ -7,7 +7,7 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=tokyonight&hide_border=true">
  </p>
  
- -  I work at **AGIc** and spend my spare time building fun stuff.
+ -  I work at **REN Labs** and spend my spare time building fun stuff.
  -  I’m currently learning/Improving **Rust, HTMX, Leptos, Three**, and some libs for web dev.
  -  Fun fact **I know how to fly a plane** and my work appeared on a **[Fireship Video](https://youtu.be/HCOQmKTFzYY?t=96)**.
    
