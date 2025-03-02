@@ -17,7 +17,7 @@
 </p>
 
  -  Working **RENLABS** and spend my spare time building fun stuff.
- -  I’m currently learning/Improving **Rust, HTMX, Leptos, Three**, and some libs for web dev.
+ -  I’m currently learning/Improving **Rust, HTMX, Three**, and some libs for web dev.
  -  Fun fact **I know how to fly a plane** and my work appeared on **[Fireship](https://youtu.be/HCOQmKTFzYY?t=96)**.
 
 ---
