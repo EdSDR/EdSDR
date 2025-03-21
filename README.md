@@ -7,12 +7,12 @@
   <img
     height="160em"
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=dracula&border_radius=0&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=EdSDR&theme=gruvbox&border_radius=0&hide_border=true"
   />
   <img
     height="160em"
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=dracula&hide_border=true&border_radius=0"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdSDR&&layout=compact&hide=shell&theme=gruvbox&hide_border=true&border_radius=0"
   />
 </p>
 
