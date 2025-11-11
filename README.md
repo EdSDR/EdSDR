@@ -1,9 +1,4 @@
 <p align="center">
-  Hi, visit my <a href="https://edsdr.com/" target="_blank">Website</a> for more
-  details about my work.
-</p>
-
-<p align="center">
   <img
     height="160em"
     align="center"
